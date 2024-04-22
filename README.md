@@ -1,6 +1,7 @@
 ## GYM
 
-### Descritopion
+### Description
+Welcome to FitHub, your go-to destination for all things fitness! Whether you're a seasoned gym-goer or just starting your fitness journey, our website is designed to support you with resources, guidance, and motivation to achieve your health and wellness goals.
 
 ### Demo
 https://ayayasser01.github.io/GYM/
